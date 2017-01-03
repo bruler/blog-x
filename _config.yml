@@ -27,7 +27,7 @@ theme_settings:
   dribbble:
   facebook:
   flickr:
-  github: "rohanchandra/type-theme"
+  github: "daemonslayer"
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -37,7 +37,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: "igotnoothername"
   wordpress:
   youtube:
 
@@ -73,3 +73,4 @@ sass:
   sass_dir: _sass
   style: :compressed
 gems: [jekyll-paginate]
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
