@@ -5,7 +5,7 @@ url: "http://example.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type Theme
+  title: Kapil Gupta
   avatar: avatar.png
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
@@ -17,11 +17,10 @@ theme_settings:
      <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: kpgupta98@gmail.com
   behance:
   bitbucket:
   dribbble:
@@ -30,7 +29,7 @@ theme_settings:
   github: "daemonslayer"
   google_plus:
   instagram:
-  linkedin:  # Full URL
+  linkedin: https://in.linkedin.com/in/kapil-gupta-a38641101
   pinterest:
   reddit:
   soundcloud:
